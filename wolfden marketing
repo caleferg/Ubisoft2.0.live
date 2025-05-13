@@ -1,0 +1,39 @@
+
+<body {
+    background-color: #0a2a50; /* Dark blue background */
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    padding: 20px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto; /* Centers the image */
+    width: 150px; /* Adjust size as needed */
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background: #062040;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
